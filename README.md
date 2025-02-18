@@ -11,5 +11,5 @@ A sleek and minimalistic music player built with **React**, featuring seamless t
 - Fully responsive design for different screen sizes
 - Optimized for performance and smooth animations
 
-<!-- ## 🌍 Live Preview
-Check out the live version here: **[Live Demo](https://your-live-preview-link.com)** -->
+## 🌍 Live Preview
+Check out the live version here: **[Live Demo](https://music-player-mockup.netlify.app/)**
