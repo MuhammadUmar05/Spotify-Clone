@@ -30,13 +30,13 @@ function DisplayAlbum() {
           </p>
         </div>
       </div>
-      <div className="grid grid-cols-2 md:grid-cols-4 mt-10 mb-4 pl-2 text-[#a7a7a7]">
+      <div className="grid grid-cols-2 md:grid-cols-4 mt-10 mb-4 px-2 text-[#a7a7a7]">
         <p>
           <b className="mr-4">#</b>Title
         </p>
         <p className="md:block hidden">Album</p>
         <p className="hidden md:block text-center">Date Added</p>
-        <img className="m-auto w-4" src={assets.clock_icon} alt="" />
+        <img className="justify-self-end sm:m-auto w-4" src={assets.clock_icon} alt="" />
       </div>
       <hr />
       {songsData.map((item, index) => (
@@ -54,7 +54,7 @@ function DisplayAlbum() {
             {albumData.name}
           </p>
           <p className="text-[15px] hidden md:block text-center">5 days ago</p>
-          <p className="text-center">{item.duration}</p>
+          <p className="sm:text-center text-end">{item.duration}</p>
         </div>
       ))}
     </>
