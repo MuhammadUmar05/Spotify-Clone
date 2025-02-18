@@ -12,4 +12,4 @@ A sleek and minimalistic music player built with **React**, featuring seamless t
 - Optimized for performance and smooth animations
 
 ## 🌍 Live Preview
-Check out the live version here: **[Live Demo](https://music-player-mockup.netlify.app/)**
+Check out the live version here: **[Live Demo](https://spotify-clone-od9mqi2qe-muhammadumar05s-projects.vercel.app/)**
